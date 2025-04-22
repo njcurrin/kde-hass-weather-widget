@@ -1,0 +1,22 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "nickcurrin@curridesigns.com",
+            }
+        ],
+        "BugReportUrl": "tbd(will be the github link)",
+        "Category": "Graphics",
+        "Description": "Get the local weather information from your home assistant instance",
+        "FormFactors": [
+            "desktop"
+        ],
+        "Icon": "color-picker",
+        "Id": "com.mateysmarsh.hass.weatherinfo",
+        "License": "GPL-2.0+",
+        "Name": "Home Assistant Weather",
+        "Website": ""
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
